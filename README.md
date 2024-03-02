@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mseroglu?tab=repositories](https://github.com/mseroglu?tab=repositories)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, js, htlm, css, qt, python**
 
 - 📫 How to reach me **mseroglu47@hotmail.com**
 
