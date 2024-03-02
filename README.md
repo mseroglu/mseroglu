@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mseroglu47@hotmail.com**
 
-- ⚡ Fun fact **I think I am learning quicly**
+- ⚡ Fun fact **I think I am learning so quicly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
