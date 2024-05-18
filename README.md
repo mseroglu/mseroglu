@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mseroglu&label=Profile%20views&color=0e75b6&style=flat" alt="mseroglu" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mseroglu?tab=repositories](https://github.com/mseroglu?tab=repositories)
 
